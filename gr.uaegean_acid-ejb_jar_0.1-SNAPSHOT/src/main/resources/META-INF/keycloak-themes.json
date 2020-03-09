@@ -1,0 +1,6 @@
+{
+    "themes": [{
+        "name" : "acid",
+        "types": [ "login" ]
+    }]
+}

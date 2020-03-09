@@ -1,0 +1,2 @@
+gr.uagean.authenticators.BeforeAcIDAuthenticatorFactory
+gr.uagean.authenticators.AfterAcIDAuthenticatorFactory
